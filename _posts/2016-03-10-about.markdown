@@ -25,12 +25,15 @@ tags: [aqlab]
 ``` ruby
 联系方式
 ```
+![二维码](/images/tdcode.png)
+
 >
 主页：[aqlab.github.io][blog]
 >
 电子邮件：[aqlab@unionpay.com][email]
 >
 联系地址：上海市浦东新区顾唐路1899号中国银联园区
+
 
 
 [email]:      aqlab@unionpay.com

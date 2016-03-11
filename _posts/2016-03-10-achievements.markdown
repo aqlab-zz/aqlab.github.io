@@ -38,14 +38,14 @@ tags: [aqlab]
 ``` ruby
 移动应用安全攻防
 ```
-![移动APP安全攻防](/images/posts/移动APP安全攻防.png)
+![移动APP安全攻防](/images/posts/移动APP安全攻防.jpg)
 
 ``` ruby
 云计算安全
 ```
-![云计算安全平台](/images/posts/云计算安全.png)
+![云计算安全平台](/images/posts/云计算安全.jpg)
 
 ``` ruby
 安全研究实验平台
 ```
-![Alt text](/images/posts/安全研究实验平台.png)
+![Alt text](/images/posts/安全研究实验平台.jpg)
