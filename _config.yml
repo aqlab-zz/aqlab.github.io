@@ -1,0 +1,39 @@
+# Site settings
+title: 安全团队
+description: '电子支付研究院，电子商务和电子支付国家工程实验室'
+url: 'http://aqlab.github.io'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'aqlab'
+  email: aqlab@unionpay.com
+  # twitter_username: aqlab
+  # facebook_username: aqlab
+  # github_username:  aqlab
+  # linkedin_username:  aqlab
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
